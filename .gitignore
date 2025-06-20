@@ -14,9 +14,5 @@ __pycache__/
 *.npy
 *.h5
 
-# Vídeos e mídia grandes (se não for usar LFS neles)
-*.mp4
-*.MOV
-
 # Jupyter checkpoints
 .ipynb_checkpoints/
