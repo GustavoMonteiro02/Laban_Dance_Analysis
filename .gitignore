@@ -1,0 +1,22 @@
+# Ambientes virtuais
+clean_env/
+venv/
+env/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dados temporários
+*.csv
+*.npy
+*.h5
+
+# Vídeos e mídia grandes (se não for usar LFS neles)
+*.mp4
+*.MOV
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
