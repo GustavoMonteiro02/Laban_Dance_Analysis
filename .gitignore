@@ -10,7 +10,6 @@ __pycache__/
 *.pyd
 
 # Dados temporários
-*.csv
 *.npy
 *.h5
 
